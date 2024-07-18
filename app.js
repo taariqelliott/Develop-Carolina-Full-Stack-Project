@@ -1,1 +1,0 @@
-let image = 2
