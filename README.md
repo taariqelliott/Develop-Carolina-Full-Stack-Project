@@ -2,7 +2,7 @@
 
 ### Hypothesis Statement 1
 
-- **Problem**: Harry Potter fans often struggle to find and connect with like-minded enthusiasts on broad social media platforms.
+- **Problem**: Harry Potter fans can struggle to find and connect with like-minded enthusiasts on broad social media platforms.
 - **Solution**: Create a dedicated platform for Harry Potter fans with themed profiles, story creators, messaging, and forums to foster community and engagement.
 - **Users**: Harry Potter fans and people interested in the wizarding world.
 - **Expected Outcome**: A strong, engaged community where fans create profiles, share stories, and participate in discussions, enhancing their fan experience.
