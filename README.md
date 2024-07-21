@@ -23,3 +23,5 @@
 - **Users**: Music enthusiasts and DJs looking for interactive live music experiences.
 - **Expected Outcome**: An immersive platform for live DJ sessions where users can request songs and socialize, creating a vibrant music community.
 - **Success Metrics**: Active users during sessions, song request volume, chat room interactions, user retention, and positive feedback on DJ performance and app usability.
+
+## --------------------------------------------------------------------------------------------------
